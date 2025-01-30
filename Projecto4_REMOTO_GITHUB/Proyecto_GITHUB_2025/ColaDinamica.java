@@ -23,6 +23,7 @@ public class ColaDinamica {
 			System.out.println("3. Eliminar elemento "); 
 			System.out.println("4. Verificar si la cola está vacía"); 
 			System.out.println("5. Salir del programa "); 
+			System.out.println("6. Opción para guardar"); 
 			System.out.println("------------------------------------"); 
 			System.out.println("opción: "); 
 			byte opcion = entrada.nextByte(); 
